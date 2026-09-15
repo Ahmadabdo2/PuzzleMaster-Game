@@ -1,0 +1,41 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.unitypackage
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+*.app
+
+# Sensitive data
+.env
+config/keys/
+firebase-config.json
+
+# Dependencies
+/Packages/
+/Assets/Plugins/
+
+# Temporary files
+*.log
+*.tmp
